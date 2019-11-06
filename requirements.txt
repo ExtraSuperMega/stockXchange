@@ -1,0 +1,11 @@
+###Requirements
+
+
+matplotlib
+yfinance
+requests
+
+#installation cmd windows
+pip install matplotlib
+pip install yfinance
+pip install requests
